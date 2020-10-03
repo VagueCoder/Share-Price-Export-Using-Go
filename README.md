@@ -1,5 +1,5 @@
 # [Share-Price-Export-Using-Go](https://github.com/VagueCoder/Share-Price-Export-Using-Go)
-Export Bulk Share Prices Easily &amp; Quickly Using Executable Created From Golang.
+Export Bulk Share Prices Easily &amp; Quickly Using Golang's Executable.
 
 ## Base System Configurations :wrench:
 **Sno.** | **Name** | **Version/Config.**
@@ -8,7 +8,7 @@ Export Bulk Share Prices Easily &amp; Quickly Using Executable Created From Gola
 2 | Language | Go Version 1.14.7 Windows/amd64
 3 | IDE | Visual Studio Code Version 1.49.3
 
-## What if [Go (Golang)](https://golang.org/)?
+## What is [Go (Golang)](https://golang.org/)?
 Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. The language is often referred to as Golang because of its domain name, golang.org, but the proper name is Go.
 
 Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. You might want to check their Git Repo. [Click Here](https://github.com/golang/go).
