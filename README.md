@@ -70,7 +70,7 @@ You'll get command line output similar to this:
 Exported to: "Share-Price-Export 03-Oct-2020 193614.csv"
 Time Elapsed: 17m35.403775s (1055 Seconds)
 ```
-`17 minutes for 8,500+ shares details fetching is comparitively very fast when compared to programs of other languages.`
+`17 minutes for 8,500+ share's details-fetching is relatively very fast when compared with programs of other languages.`
 
 ## [Output](https://github.com/VagueCoder/Share-Price-Export-Using-Go/blob/master/Share-Price-Export%2003-Oct-2020%20193614.csv)
 The Output file will be having few columns of the share market companies and corresponding prices as you can see in [Share-Price-Export 03-Oct-2020 193614.csv](https://github.com/VagueCoder/Share-Price-Export-Using-Go/blob/master/Share-Price-Export%2003-Oct-2020%20193614.csv).
